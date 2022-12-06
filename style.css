@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 150px;  
+    margin-left: 30px;
+}
+
+.logo-header {
+    background-color: rgb(1, 54, 127);
+}
