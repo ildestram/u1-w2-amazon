@@ -17,7 +17,7 @@ img {
 }
 
 .logo-header {
-    background-color: #161818;
+    background-color: rgb(19,25,33);
 }
 
 ul {
@@ -162,7 +162,7 @@ figure figcaption {
 
 footer section {
     text-align: center;
-    background-color: rgb(24, 24, 91);
+    background-color: #2E4057;
     color: whitesmoke;
     margin-top: 20px;
     font-size: 15px;
@@ -179,7 +179,7 @@ footer a {
 } */
 
 footer div {
-    background-color: #161818;
+    background-color: rgb(19,25,33);
     text-align: center;
     padding-top: 40px;
     padding-bottom: 40px;
