@@ -10,5 +10,24 @@ img {
 }
 
 .logo-header {
-    background-color: rgb(1, 54, 127);
+    background-color: #161818;
 }
+
+ul {
+    list-style-type: none;
+    background-color: rgb(50, 50, 143);
+    padding-bottom: 8px;
+    padding-top: 8px;
+}
+
+li {
+    display: inline;
+    margin-left: 35px;
+    color: whitesmoke;
+}
+
+li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
