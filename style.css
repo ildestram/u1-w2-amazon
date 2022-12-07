@@ -1,7 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Montserrat:wght@700&family=Raleway:wght@100;200;300;400;500;700&family=Roboto+Condensed:wght@400;700&display=swap');
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 img {
@@ -15,7 +21,7 @@ img {
 
 ul {
     list-style-type: none;
-    background-color: rgb(50, 50, 143);
+    background-color: rgb(24, 24, 91);
     padding-bottom: 8px;
     padding-top: 8px;
 }
@@ -37,12 +43,13 @@ main {
 }
 
 #p-first {
-    background-color: orange;
+    background-color: rgb(228, 150, 5);
     text-align: center;
     padding-top: 10px;
     margin-top: 20px;
     padding-bottom: 10px;
     color: whitesmoke;
+    font-weight: bold;
 }
 
 #background-image {
@@ -75,6 +82,8 @@ main {
 .content {
     display: flex;
     flex-wrap: no-wrap;
+    justify-content: center;
+    margin-right: 12px;
 }
 
 .content img {
@@ -87,7 +96,7 @@ main {
 figure img {
     margin-top: 25px;
     margin-left: 35px;
-    width: 90%;
+    width: 90vw;
 }
 
 figure figcaption {
@@ -96,10 +105,21 @@ figure figcaption {
 
 footer section {
     text-align: center;
-    background-color: blue;
+    background-color: rgb(24, 24, 91);
     color: whitesmoke;
     margin-top: 20px;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+
+footer a {
+    color: whitesmoke;
+}
+
+/* footer a:visited {
+    color: rgb(118, 9, 118);
+} */
 
 footer div {
     background-color: #161818;
