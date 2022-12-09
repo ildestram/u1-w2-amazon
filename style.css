@@ -103,7 +103,7 @@ a {
 }
 
 figure img {
-    width: 96vw;
+    width: 97vw;
     margin-left: 0;
     margin-right: 0;
 }
@@ -264,6 +264,10 @@ footer div {
 .box-bottom {
     margin-top: 20px;
     margin-left: 20px;
+}
+
+.first {
+    margin-top: 15px;
 }
 
 
