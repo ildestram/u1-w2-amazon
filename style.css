@@ -189,5 +189,84 @@ footer div {
     text-decoration: underline;
 }
 
+/* .block-image {
+    display: flex;
+    
+}
+
+.content-div {
+    background-color: #fff;
+    width: 40vh;
+    height: 40vh;
+    margin-top: 20px;
+}
+
+.card-body {
+   display: inline-flex;
+}
+
+.card-second {
+    display: inline-flex;
+}
+
+.image-second {
+    margin-top: 55px;
+}
+
+.color-base {
+    padding-top: 20px;
+} */
+
+.product-comp {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    box-sizing: border-box;
+    margin: 20px 0;
+    justify-content: space-between;
+}
+
+.product-comp .box {
+    width: 315px;
+    height: 400px;
+    background-color: #fff;
+}
+
+.box h3 {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.box div img {
+    width: 120px;
+    height: 120px;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-right: 0;
+}
+
+.box-a div {
+    display: inline-block;
+}
+
+.box-a div span {
+    display: block;
+    font-size: 13px;
+    margin-left: 20px;
+}
+
+.box-a {
+    overflow: hidden;
+}
+
+.box-bottom {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+
 
 
