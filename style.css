@@ -11,6 +11,11 @@ body {
 
 }
 
+header {
+    position: sticky;
+    top: 0;
+}
+
 img {
     width: 150px;  
     margin-left: 30px;
