@@ -315,7 +315,6 @@ footer div {
 }
 
 .first-button {
-    z-index: 9888;
     position: absolute;
     top: 23em;
     left: 5.5em;
@@ -343,7 +342,6 @@ footer div {
 }
 
 .second-button {
-    z-index: 9888;
     position: absolute;
     top: 23em;
     left: 29em;
@@ -383,7 +381,6 @@ footer div {
 }
 
 .fourth-button {
-    z-index: 9888;
     position: absolute;
     top: 23em;
     left: 80em;
@@ -401,6 +398,42 @@ footer div {
     font-size: 1.3em;
     color: white;
 }
+
+.heart-icon {
+    position: absolute;
+    font-size: 2em;
+    left: 9em;
+}
+
+.heart-icon2 {
+    position: absolute;
+    font-size: 2em;
+    left: 19em;
+}
+
+.heart-icon3 {
+    position: absolute;
+    font-size: 2em;
+    left: 29.5em;
+}
+
+.heart-icon4 {
+    position: absolute;
+    font-size: 2em;
+    left: 39.5em;
+}
+
+.first-button:hover,
+.second-button:hover,
+.third-button:hover,
+.fourth-button:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
+
 
 
 
