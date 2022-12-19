@@ -317,7 +317,7 @@ footer div {
 
 .first-button {
     position: absolute;
-    top: 23em;
+    top: 20em;
     left: 5.5em;
     width: 200px;
     border-radius: 10px;
@@ -344,7 +344,7 @@ footer div {
 
 .second-button {
     position: absolute;
-    top: 23em;
+    top: 20em;
     left: 29em;
     width: 200px;
     border-radius: 10px;
@@ -364,7 +364,7 @@ footer div {
 .third-button {
     z-index: 9888;
     position: absolute;
-    top: 23em;
+    top: 20em;
     left: 55em;
     width: 200px;
     border-radius: 10px;
@@ -383,7 +383,7 @@ footer div {
 
 .fourth-button {
     position: absolute;
-    top: 23em;
+    top: 20em;
     left: 80em;
     width: 200px;
     border-radius: 10px;
@@ -432,7 +432,7 @@ footer div {
     color: white;
 }
 
-.products img:nth-child(2) {
+/* .products img:nth-child(2) {
     cursor: pointer;
 }
 
@@ -463,7 +463,7 @@ footer div {
 
 .products img:nth-child(5):hover {
     opacity: 0.5;
-}
+} */
 
 .buttons {
     opacity: 0;
