@@ -276,6 +276,132 @@ footer div {
     margin-top: 15px;
 }
 
+.first-container {
+    margin: auto;
+    width: 100%;
+    height: 23em;
+    justify-content: space-between;
+    background-color: rgb(255,255,255);
+    margin-top: 20px;
+    position: relative;
+}
+
+.top p {
+    padding-top: 0.5em;
+    padding-left: 0.5em;
+    font-size: 1em;
+}
+
+.buy {
+    padding-left: 1em;
+    font-size: 13px;
+}
+
+.sp {
+    color: rgb(0,128,255);
+}
+
+.products {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 2em;
+    padding-top: 0.5em;
+}
+
+.products img {
+    height: 300px;
+    width: 300px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.first-button {
+    z-index: 9888;
+    position: absolute;
+    top: 23em;
+    left: 5.5em;
+    width: 200px;
+    border-radius: 10px;
+    height: 40px;
+    text-align: center;
+    border-style: none;
+    background-color: rgb(41,200,248);
+    cursor: pointer;
+}
+
+.first-button p {
+    position: relative;
+    font-size: 1.3em;
+    color: white;
+}
+
+.cart {
+    position: absolute;
+    top: 0.3em;
+    left: 1em;
+    font-size: 2em;
+    color: white;
+}
+
+.second-button {
+    z-index: 9888;
+    position: absolute;
+    top: 23em;
+    left: 29em;
+    width: 200px;
+    border-radius: 10px;
+    height: 40px;
+    text-align: center;
+    border-style: none;
+    background-color: rgb(41,200,248);
+    cursor: pointer;
+}
+
+.second-button p {
+    position: relative;
+    font-size: 1.3em;
+    color: white;
+}
+
+.third-button {
+    z-index: 9888;
+    position: absolute;
+    top: 23em;
+    left: 55em;
+    width: 200px;
+    border-radius: 10px;
+    height: 40px;
+    text-align: center;
+    border-style: none;
+    background-color: rgb(41,200,248);
+    cursor: pointer;
+}
+
+.third-button p {
+    position: relative;
+    font-size: 1.3em;
+    color: white;
+}
+
+.fourth-button {
+    z-index: 9888;
+    position: absolute;
+    top: 23em;
+    left: 80em;
+    width: 200px;
+    border-radius: 10px;
+    height: 40px;
+    text-align: center;
+    border-style: none;
+    background-color: rgb(41,200,248);
+    cursor: pointer;
+}
+
+.fourth-button p {
+    position: relative;
+    font-size: 1.3em;
+    color: white;
+}
+
 
 
 
