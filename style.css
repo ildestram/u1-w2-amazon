@@ -324,7 +324,7 @@ footer div {
     height: 40px;
     text-align: center;
     border-style: none;
-    background-color: rgb(41,200,248);
+    background-color: rgb(27, 119, 147);
     cursor: pointer;
 }
 
@@ -351,7 +351,7 @@ footer div {
     height: 40px;
     text-align: center;
     border-style: none;
-    background-color: rgb(41,200,248);
+    background-color: rgb(27, 119, 147);
     cursor: pointer;
 }
 
@@ -371,7 +371,7 @@ footer div {
     height: 40px;
     text-align: center;
     border-style: none;
-    background-color: rgb(41,200,248);
+    background-color: rgb(27, 119, 147);
     cursor: pointer;
 }
 
@@ -390,7 +390,7 @@ footer div {
     height: 40px;
     text-align: center;
     border-style: none;
-    background-color: rgb(41,200,248);
+    background-color: rgb(27, 119, 147);
     cursor: pointer;
 }
 
@@ -473,6 +473,8 @@ footer div {
 .products:hover .buttons {
     opacity: 1;
 }
+
+
 
 
 
